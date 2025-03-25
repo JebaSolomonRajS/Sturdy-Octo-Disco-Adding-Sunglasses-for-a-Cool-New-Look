@@ -20,6 +20,15 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 2. Add your passport-sized photo to the `images` folder.
 3. Run the script to see your "cool" transformation!
 
+## Program:
+![image](https://github.com/user-attachments/assets/43454d20-40b1-4e36-a2e3-9917d62b43d7)
+![image](https://github.com/user-attachments/assets/0bf4627b-da6a-404c-ac16-86afd9df9c8c)
+![image](https://github.com/user-attachments/assets/4cd7419b-6225-4580-a2d5-7040c2c3792c)
+![image](https://github.com/user-attachments/assets/24186a22-907f-4634-a3e4-031e48cec167)
+![image](https://github.com/user-attachments/assets/15825c05-e598-4ef7-8979-b6981cc99852)
+![image](https://github.com/user-attachments/assets/5868c78e-b2df-4149-854d-0dd464867fb8)
+
+
 ## Applications:
 - Learning basic image processing techniques.
 - Adding flair to your photos for fun.
